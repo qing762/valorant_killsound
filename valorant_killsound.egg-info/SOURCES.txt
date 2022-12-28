@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+API/__init__.py
+API/api.py
+API/Converters/__init__.py
+API/Converters/ignoretext.py
+valorant_killsound.egg-info/PKG-INFO
+valorant_killsound.egg-info/SOURCES.txt
+valorant_killsound.egg-info/dependency_links.txt
+valorant_killsound.egg-info/requires.txt
+valorant_killsound.egg-info/top_level.txt
