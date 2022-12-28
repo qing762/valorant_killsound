@@ -1,2 +1,6 @@
 .pyc
 *.pyc
+tests/fetch_1_kill.py
+dist/
+valorant_killsound.egg-info/
+build/

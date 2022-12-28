@@ -6,10 +6,10 @@ An API for VALORANT's skin custom kill sound.
 
 ## Installation
 
-Install valorant_killsound with pip
+Install valorant-killsound with pip
 
 ```bash
-  pip install valorant_killsound
+  pip install valorant-killsound
 ```
     
 ## Usage
