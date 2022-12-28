@@ -5,8 +5,9 @@ Summary: An API for piu piu game.
 Author: qing762
 Author-email: threatedblade@outlook.com
 Keywords: python,api,python wrapper,valorant,valorant-api,valorant api,piu piu game,sound effects,reaver,sovereign,ion,prime,kill sound,valorant gun skins
-Classifier: Development Status :: 2 - Releasing
+Classifier: Development Status :: 2 - Pre-Alpha
 Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
