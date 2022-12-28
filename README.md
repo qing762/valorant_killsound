@@ -130,11 +130,11 @@ print(output)
 
 The API development roadmap includes the following tasks:
 
-[ ] Implement an API that returns all of the results in a JSON object, similar to the Honor of Kings API
+- [ ] Implement an API that returns all of the results in a JSON object, similar to the Honor of Kings API
 
-[ ] Add additional functions to the API
+- [ ] Add additional functions to the API
 
-[ ] Integrate [Valorant-API](https://valorant-api.com/) into the current API development roadmap
+- [ ] Integrate [Valorant-API](https://valorant-api.com/) into the current API development roadmap
 
 
 ## Usage
