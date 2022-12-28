@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'An API for piu piu game.'
 LONG_DESCRIPTION = "A package for VALORANT's skin custom kill sound."
 
@@ -20,6 +20,8 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
+    url="https://github.com/qing762/valorant_killsound",
+    REQUIRES_PYTHON='>=3.0.0',
     packages=find_packages(),
     install_requires=['beautifulsoup4', 'requests', 'setuptools'],
     keywords=['python', 'api', 'python wrapper', 'valorant', 'valorant-api', 'valorant api', 'piu piu game', 'sound effects', 'reaver', 'sovereign', 'ion', 'prime', 'kill sound', 'valorant gun skins'],

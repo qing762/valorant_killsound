@@ -1,7 +1,8 @@
 Metadata-Version: 2.1
 Name: valorant-killsound
-Version: 0.0.1
+Version: 0.0.2
 Summary: An API for piu piu game.
+Home-page: https://github.com/qing762/valorant_killsound
 Author: qing762
 Author-email: threatedblade@outlook.com
 Keywords: python,api,python wrapper,valorant,valorant-api,valorant api,piu piu game,sound effects,reaver,sovereign,ion,prime,kill sound,valorant gun skins
