@@ -3,8 +3,10 @@
 
 An API for VALORANT's skin custom kill sound.
 
-PyPI : https://pypi.org/project/valorant-killsound/
+> **Note**
+> The module is currently undergoing a rename and is expected to be back online within the next 24-48 hours.
 
+PyPI : ~~https://pypi.org/project/valorant-killsound/~~
 
 ## Installation
 
